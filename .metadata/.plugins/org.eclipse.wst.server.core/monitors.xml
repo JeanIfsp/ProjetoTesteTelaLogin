@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<monitors>
+  <monitor port="9764" portId="0" serverId="apache-tomcat-10.1.5 at localhost" started="true"/>
+</monitors>

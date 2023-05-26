@@ -1,0 +1,10 @@
+127.0.0.1 - - [19/May/2023:11:20:31 -0300] "GET / HTTP/1.1" 200 11235
+127.0.0.1 - - [19/May/2023:11:21:37 -0300] "GET /ProjetoTeste/register HTTP/1.1" 200 873
+127.0.0.1 - - [19/May/2023:11:21:41 -0300] "GET /favicon.ico HTTP/1.1" 200 21630
+127.0.0.1 - - [19/May/2023:11:22:01 -0300] "GET /ProjetoTeste/login HTTP/1.1" 200 514
+127.0.0.1 - - [19/May/2023:11:22:46 -0300] "POST /ProjetoTeste/login HTTP/1.1" 302 -
+127.0.0.1 - - [19/May/2023:11:22:46 -0300] "GET /ProjetoTeste/dadosuser.jsp HTTP/1.1" 404 755
+127.0.0.1 - - [19/May/2023:11:23:54 -0300] "POST /ProjetoTeste/login HTTP/1.1" 200 604
+127.0.0.1 - - [19/May/2023:11:29:24 -0300] "GET /ProjetoTeste/login HTTP/1.1" 200 514
+127.0.0.1 - - [19/May/2023:11:29:25 -0300] "GET /favicon.ico HTTP/1.1" 200 21630
+127.0.0.1 - - [19/May/2023:11:29:42 -0300] "POST /ProjetoTeste/login HTTP/1.1" 200 164
